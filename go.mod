@@ -1,0 +1,3 @@
+module go-chat-redis
+
+go 1.25.0
